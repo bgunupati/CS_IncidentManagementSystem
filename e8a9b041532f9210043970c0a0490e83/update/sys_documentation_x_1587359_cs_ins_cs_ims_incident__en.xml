@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="CS_IMS_Incident" language="en" table="x_1587359_cs_ins_cs_ims_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CS_IMS_Incident</label>
+            <language>en</language>
+            <name>x_1587359_cs_ins_cs_ims_incident</name>
+            <plural>CS_IMS_Incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-04 07:15:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CS_IMS_Incident</sys_name>
+            <sys_package display_value="CS_Incident Management System" source="x_1587359_cs_ins">e8a9b041532f9210043970c0a0490e83</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CS_Incident Management System">e8a9b041532f9210043970c0a0490e83</sys_scope>
+            <sys_update_name>sys_documentation_x_1587359_cs_ins_cs_ims_incident__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-04 07:15:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
