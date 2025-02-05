@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="x_1587359_cs_ins.cs_ims_task_user" name="x_1587359_cs_ins.cs_ims_task_user">a7c93a895367d210043970c0a0490e3e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-04 16:54:42</sys_created_on>
+        <sys_id>70c04f4553a7d210043970c0a0490eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.x_1587359_cs_ins.cs_ims_task_user</sys_name>
+        <sys_package display_value="CS_Incident Management System" source="x_1587359_cs_ins">e8a9b041532f9210043970c0a0490e83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CS_Incident Management System">e8a9b041532f9210043970c0a0490e83</sys_scope>
+        <sys_update_name>sys_user_role_contains_70c04f4553a7d210043970c0a0490eda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-04 16:54:42</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
